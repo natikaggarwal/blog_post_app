@@ -1,1 +1,1 @@
-# blog_post_app
+# Full Stack Blog Post App made using MERN stack
